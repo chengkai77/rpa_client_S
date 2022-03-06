@@ -1,0 +1,10 @@
+确定JRE路径，举例： C:\Users\Sun Hui\AppData\Local\UClient\share\java1.6.0_31-x64
+accessibility.properties  JRE\lib
+jaccess.jar  JRE\lib\ext
+Teclead.jar  JRE\lib\ext
+TecleadAccessBridge-32.dll  JRE\bin
+TecleadAccessBridge-64.dll  JRE\bin
+TecleadJAWTAccessBridge-32.dll  JRE\bin
+TecleadJAWTAccessBridge-64.dll  JRE\bin
+WindowsAccessBridge-32.dll C:\Windows\SysWOW64
+WindowsAccessBridge-64.dll C:\Windows\System32
